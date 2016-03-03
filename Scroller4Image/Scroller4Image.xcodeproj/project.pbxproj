@@ -14,10 +14,10 @@
 		0B3077FA1C86828700E8D4E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B3077F91C86828700E8D4E4 /* Assets.xcassets */; };
 		0B3077FD1C86828700E8D4E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B3077FB1C86828700E8D4E4 /* LaunchScreen.storyboard */; };
 		0B3078061C8682AC00E8D4E4 /* Image.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B3078051C8682AC00E8D4E4 /* Image.m */; };
-		0B30780C1C8694F900E8D4E4 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B30780B1C8694F900E8D4E4 /* 1.png */; };
-		0B30780E1C8694FD00E8D4E4 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B30780D1C8694FD00E8D4E4 /* 2.png */; };
-		0B3078101C86950100E8D4E4 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B30780F1C86950100E8D4E4 /* 3.png */; };
-		0B3078121C86950500E8D4E4 /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B3078111C86950500E8D4E4 /* 4.png */; };
+		0B30781C1C86C26000E8D4E4 /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B30781B1C86C26000E8D4E4 /* 8.png */; };
+		0B30781E1C86C26500E8D4E4 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B30781D1C86C26500E8D4E4 /* 6.png */; };
+		0B3078201C86C26A00E8D4E4 /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = 0B30781F1C86C26A00E8D4E4 /* 7.png */; };
+		0B3078231C86FFDB00E8D4E4 /* CQShufflingFigure.m in Sources */ = {isa = PBXBuildFile; fileRef = 0B3078221C86FFDB00E8D4E4 /* CQShufflingFigure.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,10 +33,11 @@
 		0B3077FE1C86828700E8D4E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0B3078041C8682AC00E8D4E4 /* Image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Image.h; sourceTree = "<group>"; };
 		0B3078051C8682AC00E8D4E4 /* Image.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Image.m; sourceTree = "<group>"; };
-		0B30780B1C8694F900E8D4E4 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
-		0B30780D1C8694FD00E8D4E4 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
-		0B30780F1C86950100E8D4E4 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
-		0B3078111C86950500E8D4E4 /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		0B30781B1C86C26000E8D4E4 /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		0B30781D1C86C26500E8D4E4 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		0B30781F1C86C26A00E8D4E4 /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		0B3078211C86FFDB00E8D4E4 /* CQShufflingFigure.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CQShufflingFigure.h; sourceTree = "<group>"; };
+		0B3078221C86FFDB00E8D4E4 /* CQShufflingFigure.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CQShufflingFigure.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,12 +74,13 @@
 				0B3077F11C86828700E8D4E4 /* AppDelegate.m */,
 				0B3077F31C86828700E8D4E4 /* ViewController.h */,
 				0B3077F41C86828700E8D4E4 /* ViewController.m */,
+				0B3078211C86FFDB00E8D4E4 /* CQShufflingFigure.h */,
+				0B3078221C86FFDB00E8D4E4 /* CQShufflingFigure.m */,
+				0B30781D1C86C26500E8D4E4 /* 6.png */,
+				0B30781F1C86C26A00E8D4E4 /* 7.png */,
+				0B30781B1C86C26000E8D4E4 /* 8.png */,
 				0B3078041C8682AC00E8D4E4 /* Image.h */,
 				0B3078051C8682AC00E8D4E4 /* Image.m */,
-				0B30780B1C8694F900E8D4E4 /* 1.png */,
-				0B30780D1C8694FD00E8D4E4 /* 2.png */,
-				0B30780F1C86950100E8D4E4 /* 3.png */,
-				0B3078111C86950500E8D4E4 /* 4.png */,
 				0B3077F61C86828700E8D4E4 /* Main.storyboard */,
 				0B3077F91C86828700E8D4E4 /* Assets.xcassets */,
 				0B3077FB1C86828700E8D4E4 /* LaunchScreen.storyboard */,
@@ -153,13 +155,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B30781C1C86C26000E8D4E4 /* 8.png in Resources */,
 				0B3077FD1C86828700E8D4E4 /* LaunchScreen.storyboard in Resources */,
-				0B30780E1C8694FD00E8D4E4 /* 2.png in Resources */,
-				0B3078121C86950500E8D4E4 /* 4.png in Resources */,
 				0B3077FA1C86828700E8D4E4 /* Assets.xcassets in Resources */,
+				0B3078201C86C26A00E8D4E4 /* 7.png in Resources */,
 				0B3077F81C86828700E8D4E4 /* Main.storyboard in Resources */,
-				0B30780C1C8694F900E8D4E4 /* 1.png in Resources */,
-				0B3078101C86950100E8D4E4 /* 3.png in Resources */,
+				0B30781E1C86C26500E8D4E4 /* 6.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -172,6 +173,7 @@
 			files = (
 				0B3077F51C86828700E8D4E4 /* ViewController.m in Sources */,
 				0B3078061C8682AC00E8D4E4 /* Image.m in Sources */,
+				0B3078231C86FFDB00E8D4E4 /* CQShufflingFigure.m in Sources */,
 				0B3077F21C86828700E8D4E4 /* AppDelegate.m in Sources */,
 				0B3077EF1C86828700E8D4E4 /* main.m in Sources */,
 			);
@@ -286,9 +288,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Scroller4Image/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = www.Kensence.com.Scroller4Image;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -297,9 +301,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Scroller4Image/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = www.Kensence.com.Scroller4Image;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -322,6 +328,7 @@
 				0B3078031C86828700E8D4E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
